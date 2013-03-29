@@ -1,5 +1,4 @@
-// Copyright (c) 2013 Qihoo 360 Technology Co. Ltd
-// Author: Mu Yixiang (muyixiang@360.cn)
+// Author: Mu Yixiang (muyixiang@gmail.cn)
 
 #include <array>
 #include <iostream>
